@@ -1,0 +1,10 @@
+# .editorconfig file
+root = true
+
+[*.cs]
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+csharp_new_line_before_open_brace = none
+#dotnet_diagnostic.IDE0055.severity = error
+
